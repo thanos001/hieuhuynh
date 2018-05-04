@@ -1,0 +1,12 @@
+Origin: Kho Của Đức
+Label: Kho Của Đức
+Suite: stable
+Version: 8.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+MD5Sum:
+	9e3366e6bb4890c6deebc00262f46482 5096 Packages
+	eef08346c7395ab31f3c4a5a4bd73275 1689 Packages.bz2
+	fd0cef30640f0066eb77c2b5e04b106c 1614 Packages.gz
