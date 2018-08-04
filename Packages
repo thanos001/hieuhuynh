@@ -27,8 +27,6 @@ Section: Tweaks
 Filename: ./Debs/hookduccom.deb
 Size: 243012
 MD5sum: a84c1c47937c271caebb1cbb0f6e2635
-SHA1: 7e6e9e5660ba16c06a6a22580874d3d35210575c
-SHA256: 27f11e310c68bf7a7a9ebff9b1c89b830a8b7d373b15b1ffebff2b2f8c3068d3
 Tag: role::hacker
 
 Package: com.duccom01.locationfaker8910
@@ -43,8 +41,6 @@ Section: Tweaks
 Filename: ./Debs/locationfaker.deb
 Size: 538174
 MD5sum: 1384ae1d840ad3660bfcbb41ed55a33e
-SHA1: 72c6989e26d81ad922079458b9fbbd18575b632a
-SHA256: d6128df970b294dc57d4894bd7a8acbdff4fd34efd8dec2952d6998b949fc742
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
@@ -60,8 +56,6 @@ Section: Tweaks
 Filename: ./Debs/xcon4.deb
 Size: 136628 
 MD5sum: 9a10f47c107802877369cf550c978a63
-SHA1: 6fdfaa8a2f61bb62f8ad0d355807aabaf4ef715e
-SHA256: 30eb02fe7c1cb40b6d859213457b887ebf0e2d4dbdd4e0d76e408d66d1597e99
 Tag: role::hacker
 
 Package: com.duccom01.supportnoname
@@ -76,8 +70,6 @@ Section: Tweaks
 Filename: ./Debs/supportnoname.deb
 Size: 6268 
 MD5sum: 7abaf0ba88dab4774c2882a11de73b79
-SHA1: 7a13e4cfd6950f9c1349ec01f457cf21999b8532
-SHA256: 0c7679c80810efb6f82ed8559ae3cea81dfde96618322f3cccd6ec423b1400d0
 Tag: role::hacker
 
 Package: com.duccom01.icontool
@@ -92,7 +84,5 @@ Section: Tweaks
 Filename: ./Debs/icontool.deb
 Size: 384380
 MD5sum: 556ac25a2bc2055d919cfee7a730d91c
-SHA1: 69f95417791f36fd51a2cf36bf7c324fba00aa0e
-SHA256: 7d20d11bba9699b698df1382a11c7515601bffbd78cd04593878f2a9c13718fd
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
