@@ -10,8 +10,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 157384
-MD5sum: 7bf95b8f604c7906deed6d75cc26003a
+Size: 156196
+MD5sum: 0de863d1b9c56cd4f3cbd7ddd511de4a
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -25,8 +25,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 165488
-MD5sum: a177a4c26ce9afe659f810e7a85e056d
+Size: 168224
+MD5sum: a09442a18188c1e4fc81b24c9e3084cd
 Tag: role::hacker
 
 Package: com.duccom01.locationfaker8910
